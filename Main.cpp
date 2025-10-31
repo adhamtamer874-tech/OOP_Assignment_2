@@ -7,7 +7,7 @@
  * This is the entry point of the JUCE application.
  */
 
-// Our application class
+ // Our application class
 class SimpleAudioPlayer : public juce::JUCEApplication
 {
 public:
